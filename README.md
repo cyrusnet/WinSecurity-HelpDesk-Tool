@@ -20,3 +20,33 @@ A lightweight, PowerShell-based security audit and management utility designed f
 2. Clone the repository:
    ```powershell
    git clone [https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git](https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git)
+
+
+   =======================================================================================
+   =======================================================================================
+
+
+   ---
+
+# 🛡️ ابزار مدیریت و بازرسی امنیت ویندوز (WinSecurity HelpDesk)
+
+یک ابزار کم‌حجم و مبتنی بر پاورشل برای بازرسی و مدیریت امنیت، طراحی‌شده برای **تکنسین‌های هلپ‌دسک** و **مدیران سیستم**. این ابزار بررسی‌ها و تنظیمات امنیتی ضروری ویندوز را بر اساس اصول **CompTIA A+** به صورت خودکار انجام می‌دهد.
+
+---
+
+## 🎯 ویژگی‌های کلیدی
+
+* **بررسی سطح دسترسی:** تایید اینکه ابزار با دسترسی ادمین (Administrator) در حال اجراست.
+* **بازرسی بیت‌لاکر (BitLocker):** بررسی وضعیت رمزنگاری درایوها، وضعیت محافظت و حالت ولوم‌ها.
+* **مدیریت فایروال:** بررسی وضعیت عملیاتی فایروال در تمامی پروفایل‌ها (Domain, Private, Public).
+* **ابزار مسدودسازی پورت:** ایجاد سریع قوانین فایروال ورودی برای مسدود کردن پورت‌های پرخطر (مانند پورت RDP شماره 3389).
+* **بررسی آنتی‌ویروس و دیفندر:** تایید فعال بودن محافظت لحظه‌ای و سن امضای آنتی‌ویروس.
+
+---
+
+## 🚀 شروع سریع
+
+1. برنامه‌ی **PowerShell** را به صورت **Administrator** باز کنید.
+2. مخزن را کلون (Clone) کنید:
+   ```powershell
+   git clone [https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git](https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git)

@@ -50,3 +50,11 @@ A lightweight, PowerShell-based security audit and management utility designed f
 2. مخزن را کلون (Clone) کنید:
    ```powershell
    git clone [https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git](https://github.com/cyrusnet/WinSecurity-HelpDesk-Tool.git)
+
+
+🛠️ تکنولوژی‌های استفاده‌شده
+پاورشل نسخه 5.1 / 7 به بالا
+
+ابزار مدیریت بومی ویندوز (CIM / WMI)
+
+ماژول‌های پاورشل ویندوز (NetSecurity و BitLocker)
